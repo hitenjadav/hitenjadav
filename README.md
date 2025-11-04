@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I am Hiten Jadav</h1>
 
 <p align="center">
-Laravel Developer | Full-Stack Enthusiast | AI-Powered Development
+Laravel Developer | AI-Powered Development
 </p>
 
 ---
