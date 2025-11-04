@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub Profile
+## 👨‍💻 About Me
+- Software Developer
+- Working with Laravel, Node.js, React
+- Passionate about full-stack development
 
-<!--
-**hitenjadav/hitenjadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Languages: PHP, JavaScript, Node.js
+- Frameworks: Laravel, Express, React
+- Databases: MySQL, MongoDB
 
-Here are some ideas to get you started:
+## 📂 Featured Projects
+- Project 1: Description + Link
+- Project 2: Description + Link
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: your-email@example.com
+- LinkedIn: your-link
